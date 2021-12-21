@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaleskiXD (Dawid)
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity 3D and C#
+- 👀 I’m interested in Game and Web Development
+- 🌱 I’m currently learning Front-End Development
 - 📫 How to reach me dawidlewy00@gmail.com
 
 <!---
